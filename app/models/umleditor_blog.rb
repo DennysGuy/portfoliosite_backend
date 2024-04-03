@@ -1,0 +1,2 @@
+class UmleditorBlog < ApplicationRecord
+end

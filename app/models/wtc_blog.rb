@@ -1,0 +1,2 @@
+class WtcBlog < ApplicationRecord
+end

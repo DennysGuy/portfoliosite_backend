@@ -1,0 +1,2 @@
+class DevilstreasureBlog < ApplicationRecord
+end

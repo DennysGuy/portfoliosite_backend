@@ -1,0 +1,2 @@
+class TetrisBlog < ApplicationRecord
+end
